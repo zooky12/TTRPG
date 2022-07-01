@@ -7,8 +7,12 @@
         "id": "b6d03758fbd5b8a0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Plots/Idees.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plots/Idees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +89,14 @@
   },
   "active": "b6d03758fbd5b8a0",
   "lastOpenFiles": [
-    "Regnes/Untitled.md",
+    "Plots/Idees.md",
     "Regnes/General.md",
+    "Regnes/Tipus.md",
     "World/Historia del Mon.md",
+    "Magic/General Tipus.md",
+    "_General/Idees Generals.md",
     "World/Pasted image 20220701132230.png",
     "Pasted image 20220701132230.png",
-    "_General/Idees Generals.md",
-    "Magic/General Tipus.md",
     "[test.md",
     "[Magic.md"
   ]
