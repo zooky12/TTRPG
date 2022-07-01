@@ -7,12 +7,8 @@
         "id": "b6d03758fbd5b8a0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Magic/Tipus/General Tipus.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Tipus/General Tipus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +84,13 @@
   },
   "active": "b6d03758fbd5b8a0",
   "lastOpenFiles": [
-    "Magic/Tipus/General Tipus.md",
-    "Magic/Historia de la Magia.md",
+    "Regnes/Untitled.md",
+    "Regnes/General.md",
+    "World/Historia del Mon.md",
+    "World/Pasted image 20220701132230.png",
+    "Pasted image 20220701132230.png",
     "_General/Idees Generals.md",
-    "Politics/General.md",
+    "Magic/General Tipus.md",
     "[test.md",
     "[Magic.md"
   ]
